@@ -1,0 +1,11 @@
+Feature,Mean_Abs_SHAP,Business_Interpretation
+Avg Item Demand,14.944,Strongest predictor: how well this item normally sells at this outlet sets the baseline.
+Footfall Index,5.953,More guests in the outlet means more orders of every item.
+Price Index,1.978,Price relative to the item's base price: a higher price lowers predicted demand.
+Base Price,1.696,Expensive items sell in lower volumes than cheap add-ons such as breads.
+Avg Item Price,1.367,The item's usual price level at this outlet.
+Promotion Depth,1.127,"The more value an offer hands to the customer, the higher the predicted demand."
+Selling Price,0.641,The price the customer pays: a higher price lowers predicted demand.
+Competitor Price Ratio,0.584,"Our price relative to the competitor: the more expensive we are, the lower the demand."
+Temperature,0.447,Hot days lift cold beverages and kulfi; cold days lift chai and gajar halwa.
+Competitor Price Gap,0.435,"Rupee gap to the competitor: the more expensive we are, the lower the demand."
